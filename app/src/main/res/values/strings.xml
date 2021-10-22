@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="input_fahrenheit_temperature">Input Temperature</string>
+</resources>
